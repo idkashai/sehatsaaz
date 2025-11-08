@@ -1,0 +1,5 @@
+{
+  "name": "SehatSaaz: AI Lab Report Analyzer",
+  "description": "An AI-powered health assistant to help users in Pakistan understand their medical lab reports. Upload an image of your report to get a simplified analysis, explanation of terms, and a severity assessment. This tool is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
